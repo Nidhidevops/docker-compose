@@ -26,7 +26,7 @@ Step 3 : Check the validity of file by command
     docker-compose config
 
 Step 4 : Run docker-compose.yml file by command
-   docker-compose up -d
+   "docker-compose up -d"
 
 Steps 5 : Bring down application by command
    docker-compose down
